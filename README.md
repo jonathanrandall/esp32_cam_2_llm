@@ -12,10 +12,19 @@ Thanks to pcbway for the pcbs. https://www.pcbway.com
 * __esp32_2_llmv4__: this contains the code running on the eps32 cam that communicates with the llm.
 * __fritzing__: fritzing file and gerbers for pcb.
 
+### connections I used
+[!connection list](https://github.com/jonathanrandall/esp32_cam_2_llm/blob/main/connections_table.png)
+
 ### equipment list
 
 * __esp32 cam__: I'm using the AI thinker.
 * __MAX 98357__: Audio amplifier.
 * __speakers__: 8 ohm or 4 ohm speakers. It's worth getting good ones. Cheaper ones are at aliexpress (https://www.aliexpress.com/item/1005006056014552.html). More expensive ones are at Amazon (https://www.amazon.com.au/dp/B01LN8ONG4).
 * __FTDI adapter__: Need this to flash the esp32 cam if you're using the AI thinker.
-* 
+* __pcb or breadboard__: I used both. I built on the breadboard first and then put everything on a pcb.
+* __oled__: I used a 128 x 64 oled.
+* __18650 battery__
+* __18650 WEMOS battery shield__: see https://www.amazon.com.au/Be-Your-Mind-Expansion-Compatible/dp/B0CPDD985S for example.
+* __push button__
+* __rocker switch__
+* __jumper cables__
