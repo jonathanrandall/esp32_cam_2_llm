@@ -1,0 +1,31 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=llm_2_esp32_fritz
+*Date=22:00:38
+*CreatedBy=Fritzing 0.9.6b..
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;45.124;-56.9806;180;Bottom;vcc
+2;;THT;15.914;-36.6606;90;Bottom;max98358
+3;;;61.6343;-41.5609;180;Bottom;E1
+4;;[THT];41.8739;-9.01072;0;Bottom;S3
+5;5V;;94.4289;-45.5506;0;Bottom;Part2
+6;;;116.244;-64.6006;0;Bottom;Hole2
+7;;THT;66.714;-11.2606;0;Bottom;S4
+8;;THT;83.224;-58.2506;180;Bottom;gnd 0
+9;;;7.02397;-64.6006;0;Bottom;Hole4
+10;;THT;59.094;-16.3406;0;Bottom;S5
+11;;;7.02397;-3.64065;0;Bottom;Hole3
+12;;;116.244;-3.64056;0;Bottom;Hole1
+13;;THT;66.714;-6.18065;0;Bottom;S6
+14;;THT;85.783;-17.4306;-90;Bottom;J1
+15;;THT;116.244;-13.4206;0;Bottom;S7
+16;;THT;37.504;-54.4406;180;Bottom;max98357
