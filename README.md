@@ -12,4 +12,7 @@ The project connects an esp32 cam to an LLM, which takes as input the prompt "de
 
 ### equipment list
 
+* __esp32 cam__: I'm using the AI thinker.
+* __MAX 98357__: Audio amplifier.
+* __speakers__: 8 ohm or 4 ohm speakers. It's worth getting good ones. Cheaper ones are at aliexpress (https://www.aliexpress.com/item/1005006056014552.html). More expensive ones are at Amazon (https://www.amazon.com.au/dp/B01LN8ONG4).
 * 
