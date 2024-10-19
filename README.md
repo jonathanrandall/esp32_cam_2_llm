@@ -1,7 +1,7 @@
 # esp32_cam_2_llm
 connect an esp32 cam to llm and back again
 
-The project connects an esp32 cam to an LLM, which takes as input the prompt "describe this picture?" together with the image, and then returns a description of the image. The returned description is then transformed into speech. The LLM is running locally on my machine. I'm using the [ollama library](https://ollama.com/) with LLAVA model. The __LLAVA open source model__ is good for doing image analysis. I'm using an MSI laptop with an NVIDIA 4070 GPU, which has 8GB of vram.
+The project connects an esp32 cam to an LLM, which takes as input the prompt "describe this picture?" together with the image, and then returns a description of the image. The returned description is then transformed into speech. The LLM is running locally on my machine. I'm using the [ollama library](https://ollama.com/) with LLAVA model. The __LLAVA open source model__ is good for doing image analysis. I'm using an MSI laptop with an NVIDIA 4070 GPU, which has 8GB of vram. The llava model can be installed directoy with ollama. 
 
 Thanks to pcbway for the pcbs. https://www.pcbway.com
 
