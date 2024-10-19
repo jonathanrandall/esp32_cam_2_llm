@@ -5,6 +5,10 @@ The project connects an esp32 cam to an LLM, which takes as input the prompt "de
 
 Thanks to pcbway for the pcbs. https://www.pcbway.com
 
+### explanatory video:
+
+https://youtu.be/hMA0HNYTjm0
+
 ### repository files:
 
 * __llm_2_esp32_cam.py__: this file is running on my local maching.
