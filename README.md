@@ -13,7 +13,7 @@ Thanks to pcbway for the pcbs. https://www.pcbway.com
 * __fritzing__: fritzing file and gerbers for pcb.
 
 ### connections I used
-[!connection list](https://github.com/jonathanrandall/esp32_cam_2_llm/blob/main/connections_table.png)
+![connection list](https://github.com/jonathanrandall/esp32_cam_2_llm/blob/main/connections_table.png)
 
 ### equipment list
 
